@@ -5,8 +5,7 @@
 [**Slides de Apoio**](https://docs.google.com/presentation/d/1sd7aWfxiUkbiohpoSZUMZdeKrhSQ3cIBBixq4fWEujI/edit?usp=sharing)
 
 #### Desenvolvimento em aula
-A Reprograma precisa organizar sua agenda de alunas e professoras. Vamos fazer a implementação de um sisteminha em que será possível a adição e manipulação destes dados. 
-Alunas: 
+Vamos dar continuidade ao projeto desenvolvido durante as aulas de GET.
 
 #### Exercícios
 Você foi contratada para fazer a implementação de um sistema de uma livraria no centro de Recife. 
