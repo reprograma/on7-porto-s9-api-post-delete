@@ -1,13 +1,13 @@
 # on7-porto-api-post-delete
 
-##Reprograma + Porto Digital - Mulheres em Inovação, Negócios e Artes (MINAs)
+## Reprograma + Porto Digital - Mulheres em Inovação, Negócios e Artes (MINAs)
 
-###Semana 9 - POST + DELETE
-####Desenvolvimento em aula
+### Semana 9 - POST + DELETE
+#### Desenvolvimento em aula
 A Reprograma precisa organizar sua agenda de alunas e professoras. Vamos fazer a implementação de um sisteminha em que será possível a adição e manipulação destes dados. 
 Alunas: 
 
-####Exercícios
+#### Exercícios
 Você foi contratada para fazer a implementação de um sistema de uma livraria no centro de Recife. 
 
 1 - A contratante espera que no sistema ela possa fazer a inclusão de seu estoque contendo as seguintes informações: 
