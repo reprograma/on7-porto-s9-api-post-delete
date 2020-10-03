@@ -2,6 +2,8 @@
 
 ## Reprograma + Porto Digital - Mulheres em Inovação, Negócios e Artes (MINAs)
 
+[**Slides de Apoio**](https://docs.google.com/presentation/d/1sd7aWfxiUkbiohpoSZUMZdeKrhSQ3cIBBixq4fWEujI/edit?usp=sharing)
+
 ### Semana 9 - POST + DELETE
 #### Desenvolvimento em aula
 A Reprograma precisa organizar sua agenda de alunas e professoras. Vamos fazer a implementação de um sisteminha em que será possível a adição e manipulação destes dados. 
