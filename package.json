@@ -1,7 +1,7 @@
 {
   "name": "on7-porto-s9-api-post-delete",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Reprograma + Porto Digital - Mulheres em Inovação, Negócios e Artes (MINAs) ### Semana 9 - POST + DELETE [**Slides de Apoio**](https://docs.google.com/presentation/d/1sd7aWfxiUkbiohpoSZUMZdeKrhSQ3cIBBixq4fWEujI/edit?usp=sharing)",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/reprograma/on7-porto-s9-api-post-delete#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "express": "^4.17.1",
     "nodemon": "^2.0.4"
-  }
+  },
+  "devDependencies": {}
 }

@@ -12,7 +12,13 @@ const getById = (req, res) => {
   res.status(200).send(tarefas.find((tarefa) => tarefa.id == id));
 };
 
+const postTarefa = (req, res) => {
+  console.log(req.body);
+  res.status(200).send(tarefas)
+};
+
 module.exports = {
   getAll,
   getById,
+  postTarefa,
 };
