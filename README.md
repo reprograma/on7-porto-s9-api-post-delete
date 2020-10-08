@@ -12,11 +12,11 @@ Você foi contratada para fazer a implementação de um sistema de uma livraria 
 
 1 - A contratante espera que no sistema ela possa fazer a inclusão de seu estoque contendo as seguintes informações: 
 
-Livros: título, autor, genero, estoque (bool), editora
+Livros: adicionar os campos que julgar necessários
 
 2 - A mesma livraria decidiu integrar um sisteminha em que será possível a adição de seus funcionários. A contratante espera que no sistema ela possa fazer a inclusão dos dados de cada um deles, contendo:
 
-Funcionários: id, nome, sobrenome
+Funcionários: adicionar campos que julgar necessários
 
 3 - Nossa livraria gostaria de garantir que será possível a exclusão do registro de determinado livro.
 
